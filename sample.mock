@@ -1,0 +1,36 @@
+This is my mockup
+=================
+
+Please select a thing: [ ] Blender
+                          [x] Something
+                       [x] Else
+
+Select something else:
+
+( ) One
+(o) Two
+( ) Three
+
+What is your name?  [Sam_____]
+
+What do you think about life?
+
+[Some text_____]
+[More text_____]
+[______________]
+[______________]
+[______________]
+ 
+(These styles are still broken.)
+
+Enter your postal address [123 Placeway Rd__]
+                          [Sometown_________]
+                          [Wellington_______]
+                          [_________________]
+
+This is the field label   [______________]
+                          [______________]
+This is the help text     [______________]
+                          [______________]
+
+[ Submit my form ]
