@@ -54,3 +54,6 @@ To run Mockdown's test suite, just use the phpunit command-line tool:
 	
 You will need to install phpunit from Phing.
 
+[Travis-CI](http://travis-ci.org) is used for continuous integration; current status is:
+
+[![Build Status](https://secure.travis-ci.org/sminnee/mockdown.png)](http://travis-ci.org/sminnee/mockdown)
