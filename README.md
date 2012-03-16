@@ -44,3 +44,13 @@ a fixed-width font, a la ASCII-art.
 ### Buttons
 
 	[ Save changes ]
+	
+Development / Testing
+---------------------
+
+To run Mockdown's test suite, just use the phpunit command-line tool:
+
+	> phpunit
+	
+You will need to install phpunit from Phing.
+
